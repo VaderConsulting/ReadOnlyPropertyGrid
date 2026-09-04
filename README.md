@@ -18,6 +18,10 @@ C# WinForms `PropertyGrid` subclass (`RPropertyGrid`) by Rajeev Ravindranath tha
 
 Open `ReadOnlyPropertyGridTest/ReadOnlyPropertyGridTest.sln` to run the demo (it references the library). Open `Rajeev.Windows.Forms/Rajeev.Windows.Forms.sln` for the control project alone.
 
+## Requirements
+
+- Visual Studio 2010 to 2013, .NET Framework 4.0
+
 ## Attribution and provenance
 
 From Dave Robinson's Historical Dev archive (OneDrive folder `ReadOnlyPropertyGrid`). Author: Rajeev Ravindranath. See `THIRD_PARTY_NOTICES.md`. Non-commercial custom terms in the source headers; not relicensed as original VaderConsulting code.
