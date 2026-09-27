@@ -1,6 +1,6 @@
 # ReadOnlyPropertyGrid
 
-C# WinForms `PropertyGrid` subclass (`RPropertyGrid`) by Rajeev Ravindranath that can show a selected object as read-only. A `ReadOnly` flag wraps descriptors so the grid displays values without editing. The test project hosts nested sample objects and checkboxes to toggle read-only and swap the selected object. This is Dave Robinson's Historical Dev working copy, not original VaderConsulting code.
+C# WinForms `PropertyGrid` subclass (`RPropertyGrid`) by Rajeev Ravindranath that can show a selected object as read-only. A `ReadOnly` flag wraps descriptors so the grid displays values without editing. The test project hosts nested sample objects and checkboxes to toggle read-only and swap the selected object. This is my Historical Dev working copy, not original VaderConsulting code.
 
 **Source last updated:** 2015-06-06  
 **Language:** C#  
