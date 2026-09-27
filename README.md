@@ -24,6 +24,8 @@ Open `ReadOnlyPropertyGridTest/ReadOnlyPropertyGridTest.sln` to run the demo (it
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder.
+
 From Dave Robinson's Historical Dev archive (OneDrive folder `ReadOnlyPropertyGrid`). Author: Rajeev Ravindranath. See `THIRD_PARTY_NOTICES.md`. Non-commercial custom terms in the source headers; not relicensed as original VaderConsulting code.
 
 ## License
